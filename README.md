@@ -29,5 +29,5 @@ To send commands to the Arduino just open up the app and type in one of five com
 - LED 2
 - LED 3
 - LED 4
-- LED 5
+- LED 5  
 If you send an invalid command the Arduino will respond with a message. If an LED is already on and the command for that LED is sent again the LED will be toggled off and vice versa. 
