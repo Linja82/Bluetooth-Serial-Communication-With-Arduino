@@ -20,3 +20,4 @@ Then click on "Newline".
 <img src="https://github.com/Linja82/Bluetooth-Serial-Communication-With-Arduino/blob/master/Images/Screenshot_20190808-040931.png" width ="380">  
 Then select "NUL" as the option.  
 <img src="https://github.com/Linja82/Bluetooth-Serial-Communication-With-Arduino/blob/master/Images/Screenshot_20190808-040941.png" width ="380">  
+Now you're all set and ready to send commands.
