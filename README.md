@@ -13,4 +13,4 @@ The LEDs should all have their ground leads connected to the Arduino's GND pin. 
 
 ## USage
 Once you have all the components connected correctly connect your Arduino to your computer via a USB cable. Open the Arduino code from this repository and upload it to the Arduino. Then open up the "Serial Bluetooth Terminal" app on your phone. Connect to the HC-05 bluetooth module. A password for the module may be required. The password is usually either "0000" or "1234". Once the module is connected go to the menu on the left side of the screen and select "settings".
-![alttext](https://github.com/Linja82/Bluetooth-Serial-Communication-With-Arduino/blob/master/Images/Screenshot_20190808-040911.png width = 480 height = 1320)
+![alttext](https://github.com/Linja82/Bluetooth-Serial-Communication-With-Arduino/blob/master/Images/Screenshot_20190808-040911.png width ="480" height ="1320")
