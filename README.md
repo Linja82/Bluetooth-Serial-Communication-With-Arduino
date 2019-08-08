@@ -1,6 +1,8 @@
 # Bluetooth Serial Communication With Arduino
  Instructions on how to control an Arduino through bluetooth   
  **NOTE: Disconnect the TX and RX pins of the bluetooth module when you are uploading the code.**
+## Purpose
+This project helps to teach people how to communicate and control an Arduino over bluetooth. This project will allow the user to toggle the state of 5 LEDs by typing commands into their phone. 
 ## Required Components
 - Arduino Uno R3
 - LED X 5 (Any colour will do)
