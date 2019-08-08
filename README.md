@@ -1,5 +1,5 @@
 # Bluetooth Serial Communication With Arduino
- Instructions on how to control an Arduino through bluetooth
+ Instructions on how to control an Arduino through bluetooth \n
  NOTE: Disconnect the TX and RX pins of the bluetooth module when you are uploading the code.
 ## Required Components
 - Arduino Uno R3
