@@ -25,7 +25,7 @@ Then select "NUL" as the option.
 <img src="https://github.com/Linja82/Bluetooth-Serial-Communication-With-Arduino/blob/master/Images/Screenshot_20190808-040941.png" width ="380">  
 Now you're all set and ready to send commands.
 ## Sending Commands
-To send commands to the Arduino just open up the app and type in one of five commands:  
+To send commands to the Arduino just open up the app and type in one of five commands.    
 - LED 1  
 - LED 2  
 - LED 3  
